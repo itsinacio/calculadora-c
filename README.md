@@ -1,0 +1,41 @@
+# 🧮 Calculadora C
+
+Uma calculadora simples desenvolvida em linguagem C, executada diretamente no terminal.  
+Permite realizar operações matemáticas básicas: **adição**, **subtração**, **multiplicação** e **divisão** com validação de entradas e opção para repetir cálculos.
+
+---
+
+# 📷 Imagem do programa
+
+![Demonstração do codigo](assets/imagem_demonstrativa_do_codigo.PNG)
+
+---
+
+## 🚀 Instalação e Pré-requisitos
+
+### 📦 Pré-requisitos
+- [GCC](https://gcc.gnu.org/) (ou outro compilador C)
+- Terminal para execução
+
+### 📥 Passos para rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/itsinacio/calculadora-c.git
+
+2. Acesse a pasta do projeto: 
+   cd calculadora-c
+
+3. Compile o código:
+   gcc src/calculadora.c -o calculadora
+
+4. Execute o programa:
+   ./calculadora
+
+---
+
+## ⚡ Uso e Exemplos
+
+Abaixo está um exemplo de como a Calculadora C funciona no terminal:
+
+![Demontração do exemplo](assets/exemplo_do_codigo.PNG)
