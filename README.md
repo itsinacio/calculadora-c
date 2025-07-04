@@ -47,14 +47,14 @@ Abaixo está um exemplo de como a Calculadora C funciona no terminal:
 
 ## 📂 Estrutura do Projeto
 
-calculadora-c/
-├── assets/
-│   └── exemplo_do_codigo.PNG
-│   └── imagem_demonstrativa_do_codigo.PNG
-├── src/
-│   └── calculadora-c.c
+calculadora-c
 ├── LICENSE
-└── README.md
+├── README.md
+├── assets
+│   ├── exemplo_do_codigo.PNG
+│   └── imagem_demonstrativa_do_codigo.PNG
+└── src
+    └── calculadora-c.c
 
 ---
 
