@@ -51,7 +51,7 @@ Abaixo está um exemplo de como a Calculadora C funciona no terminal:
 ## 📂 Estrutura do Projeto
 
 ```
-calculadora-c
+calculadora-c-main
 ├── LICENSE
 ├── README.md
 ├── assets
@@ -59,6 +59,7 @@ calculadora-c
 │   └── imagem_demonstrativa_do_codigo.PNG
 └── src
     └── calculadora-c.c
+
 ```
 
 ---
