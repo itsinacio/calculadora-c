@@ -42,3 +42,22 @@ Permite realizar operações matemáticas básicas: **adição**, **subtração*
 Abaixo está um exemplo de como a Calculadora C funciona no terminal:
 
 ![Demontração do exemplo](assets/exemplo_do_codigo.PNG)
+
+---
+
+## 📂 Estrutura do Projeto
+
+calculadora-c/
+├── assets/
+│   └── exemplo_do_codigo.PNG
+│   └── imagem_demonstrativa_do_codigo.PNG
+├── src/
+│   └── calculadora-c.c
+├── LICENSE
+└── README.md
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
