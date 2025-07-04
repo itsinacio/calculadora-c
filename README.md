@@ -24,12 +24,15 @@ Permite realizar operações matemáticas básicas: **adição**, **subtração*
    git clone https://github.com/itsinacio/calculadora-c.git
 
 2. Acesse a pasta do projeto: 
+   ```bash
    cd calculadora-c
 
 3. Compile o código:
+   ```bash
    gcc src/calculadora.c -o calculadora
 
 4. Execute o programa:
+    ```bash
    ./calculadora
 
 ---
